@@ -1,0 +1,8 @@
+env
+LogoDet-3K
+data/annotations
+data/labels
+data/images
+runs
+flickr_logos_27_dataset
+traced_model.pt
